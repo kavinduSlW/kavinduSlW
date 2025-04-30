@@ -32,6 +32,26 @@
 </table>
 
 ---
+<h3 align="center">Github Analytics:</h3>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+<p align="center">
+  <a href="https://github.com/kavinduslWickram">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavinduslWickram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+</td>
+<td>
+  <a href="https://github.com/kavinduslWickram">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kavinduslWickram&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</td>
+</tr>
+</table>
+
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
