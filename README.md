@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavinduslwickram&label=Profile%20views&color=0e75b6&style=flat" alt="kavinduslwickram" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavinduSlW&label=Profile%20views&color=0e75b6&style=flat" alt="kavinduSlW" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -24,7 +24,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/kavinduslWickram/kavinduslWickram/blob/main/mygif.gif?raw=true">
+  <img align="center" alt="Coding" width="450" src="https://github.com/kavinduSlW/kavinduSlW/blob/main/mygif.gif?raw=true">
 
   
   </td>
@@ -37,14 +37,14 @@
 <tr border="none">
 <td width="50%" align="left">
 <p align="center">
-  <a href="https://github.com/kavinduslWickram">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavinduslWickram&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/kavinduSlW">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavinduSlW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 </td>
 <td>
-  <a href="https://github.com/kavinduslWickram">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kavinduslWickram&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/kavinduSlW">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kavinduSlW&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </td>
 </tr>
